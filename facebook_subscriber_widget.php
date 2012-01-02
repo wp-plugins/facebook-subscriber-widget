@@ -3,7 +3,7 @@
 Plugin Name: Facebook Subscriber Widget
 Plugin URI: http://wordpress.org/extend/plugins/facebook-subscriber-widget/
 Description: Place a Facebook Subscribe button on your Wordpress blog as a widget and/or shortcode.
-Version: 1.0
+Version: 1.1
 Author: Mallikarjun Yawalkar
 Author URI: http://digitalfair.tk
 */
