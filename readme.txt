@@ -38,12 +38,14 @@ Then fill your details such as your facebook profile url and save the widget. No
 
 == Upgrade Notice ==
 
-N/A
+= 1.1 =
+
+Upgrade immediately to make sure your WordPress install is secure.
 
 == Changelog ==
 
 = 1.1 =
-*Added layout support 
+* Added layout support (standard ,box count, button count)
 
 = 1.0 =
 * Initial Release
