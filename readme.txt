@@ -45,7 +45,7 @@ Upgrade immediately to make sure your WordPress install is secure.
 == Changelog ==
 
 = 1.1 =
-*Added layout support (standard ,box count, button count)
+* Added layout support (standard ,box count, button count)
 
 = 1.0 =
 * Initial Release
