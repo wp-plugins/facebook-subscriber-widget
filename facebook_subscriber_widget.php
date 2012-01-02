@@ -114,7 +114,7 @@ class FB_Subscribe_Widget extends WP_Widget {
 
 		<p><hr />
 			<label>If you subscribe this plugin, Please contribute your subscribe on facebook:  </label><br />
-<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fpages%2FDigital-Fair%2F180655755348012&amp;send=false&amp;layout=button_count&amp;width=350&amp;show_faces=false&amp;action=subscribe&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:250px; height:21px;" allowTransparency="true"></iframe>		
+<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Ffacebook.com%2Fdigital.fair&amp;send=false&amp;layout=button_count&amp;width=350&amp;show_faces=false&amp;action=subscribe&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:250px; height:21px;" allowTransparency="true"></iframe>		
 	</p>	
 
 		<?php
