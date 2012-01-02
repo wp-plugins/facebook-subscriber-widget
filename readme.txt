@@ -38,7 +38,9 @@ Then fill your details such as your facebook profile url and save the widget. No
 
 == Upgrade Notice ==
 
-N/A
+= 1.1 =
+
+Upgrade immediately to make sure your WordPress install is secure.
 
 == Changelog ==
 
