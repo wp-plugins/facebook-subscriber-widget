@@ -4,13 +4,13 @@ Donate link: http://digitalfair.tk
 Tags: Facebook, subscribe, social, widget, shortcode, fans
 Requires at least: 3.0
 Tested up to: 3.3
-Stable tag: 1.0
+Stable tag: 1.1
 
 This plugin lets you place a Facebook Subscribe Box on your WordPress blog as a widget.
 
 == Description ==
 
-To use the *Facebook Subscriber Widget* just drag it to a sidebar and enter your facebook profile url(you must have enabled subscriptions). You can also choose to show faces, faces will then be shown when using the standard button style. It is also possible to choose between the light and a dark color scheme.
+To use the **Facebook Subscriber Widget** just drag it to a sidebar and enter your facebook profile url(you must have enabled subscriptions). You can also choose to show faces, faces will then be shown when using the standard button style. It is also possible to choose between the light and a dark color scheme.
 
 This plugin will definitely help you to increase your fan base and subscribers on facebook. Check out the screenshots.
 
@@ -32,13 +32,18 @@ Then fill your details such as your facebook profile url and save the widget. No
 
 == Screenshots ==
 1. The Pplugin admin in widget sidebar.
-2. The plugin output on your webstite.
+2. The plugin output with standard layout on your webstite.
+3. The plugin output with button count layout on your webstite.
+4. The plugin output with box count layout on your webstite.
 
 == Upgrade Notice ==
 
 N/A
 
 == Changelog ==
+
+= 1.1 =
+*Added layout support 
 
 = 1.0 =
 * Initial Release
